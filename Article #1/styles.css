@@ -38,7 +38,7 @@ body {
 .container-one a {
     color: #708090;
     text-decoration: underline;
-    font: 500;
+    font-weight: 500;
 }
 
 .container-one a:hover {
