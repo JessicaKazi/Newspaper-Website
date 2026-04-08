@@ -1,0 +1,101 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+} 
+
+body {
+    font-family: "Montserrat", "Google Sans";
+    background-color: #F0E7D5;
+}
+
+.container-one {
+    /* border: 3px solid red; */
+    max-width: 100vw;
+    max-height: 100vw;
+}
+
+.container-one h1 {
+    font-size: 6vmin;
+    color: #212842;
+    margin-bottom: 1rem;
+    margin-left: 1rem;
+}
+
+.container-one a {
+    color: #708090;
+    text-decoration: underline;
+    font-weight: 500;
+}
+
+.container-one a:hover {
+    color: #212821;
+}
+
+.container-one img {
+    width: 98vw;
+    height: 70vh;
+}
+
+.slogan-one {
+    color: #212821;
+    font-size: 3vmin;
+    font-weight: 600;
+    margin-bottom: 1rem;
+    margin-left: 1rem;
+}
+
+.container-two {
+    max-width: 100vw;
+
+}
+
+section article {
+    font-size: 3vmin;
+    line-height: 28px;
+}
+
+section article p {
+    margin-bottom: 1.8rem;
+    margin-left: 1rem;
+}
+
+hr {
+    margin-top: 5px;
+    margin-bottom: 10px;
+    height: 3px;
+    background-color: #F0E7D5;
+}
+
+.container-two h1 {
+    font-size: 6vmin;
+    color: #212821;
+    margin-bottom: 1rem;
+    margin-left: 1rem;
+}
+
+.container-two a {
+    color: #708090;
+    text-decoration: underline;
+    font: 500;
+}
+
+.container-two a:hover {
+    color: #212842;
+}
+
+.container-two img {
+    width: 98vw;
+    height: auto;
+}
+
+.credits {
+    text-align: center;
+    color: #212842;
+}
+
+.info-secret {
+    text-align: center;
+    color: #212842;
+    margin-top: 1.125rem;
+}
